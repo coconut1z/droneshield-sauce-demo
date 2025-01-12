@@ -6,7 +6,7 @@ This project uses Python and Selenium to perform end to end automation testing o
 
 ## Installation
 Assuming Python is already installed:
-1. Clone the repository (or in this case download it and extract it)
+1. Clone the repository
 2. Navigate to the project directory
 ```bash
 cd sauce_demo
